@@ -1,0 +1,14 @@
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:disabled {
+  background-color: #ccc; /* Change the background color to gray */
+  color: #888; /* Change the text color to a lighter gray */
+  cursor: not-allowed; /* Change the cursor to 'not-allowed' */
+}

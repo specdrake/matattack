@@ -1,0 +1,22 @@
+.roompage-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  border: 10px solid #000;
+}
+
+.roompage-content {
+  text-align: center;
+}
+
+.room-heading {
+  margin-top: 0;
+}
+
+.message {
+  border: 5px solid #000;
+  margin: 20px;
+}
+
+/* Add additional styles specific to the RoomPage component as needed */
